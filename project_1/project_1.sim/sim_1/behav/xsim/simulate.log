@@ -1,0 +1,10 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+                   0 set = 0, reset = 0, q = 1
+
+                   5 set = 0, reset = 1, q = 1
+
+                  10 set = 0, reset = 0, q = 1
+
+                  15 set = 1, reset = 0, q = 0
+
