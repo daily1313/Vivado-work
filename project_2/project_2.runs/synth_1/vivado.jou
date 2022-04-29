@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Apr 30 04:01:58 2022
+# Process ID: 7280
+# Current directory: C:/Users/SeungBeomKim/Desktop/Vivado_work/project_2/project_2.runs/synth_1
+# Command line: vivado.exe -log stimulus.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source stimulus.tcl
+# Log file: C:/Users/SeungBeomKim/Desktop/Vivado_work/project_2/project_2.runs/synth_1/stimulus.vds
+# Journal file: C:/Users/SeungBeomKim/Desktop/Vivado_work/project_2/project_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source stimulus.tcl -notrace
