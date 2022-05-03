@@ -1,0 +1,14 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+                   0A = 0000,B= 0000, C_IN = 0, ---C_OUT = 0, SUM = 0000
+
+                   5A = 0011,B= 0100, C_IN = 0, ---C_OUT = 0, SUM = 0111
+
+                  10A = 0010,B= 0101, C_IN = 0, ---C_OUT = 0, SUM = 0111
+
+                  15A = 1001,B= 1001, C_IN = 0, ---C_OUT = 1, SUM = 0010
+
+                  20A = 1010,B= 1111, C_IN = 0, ---C_OUT = 1, SUM = 1001
+
+                  25A = 1010,B= 0101, C_IN = 0, ---C_OUT = 0, SUM = 1111
+
