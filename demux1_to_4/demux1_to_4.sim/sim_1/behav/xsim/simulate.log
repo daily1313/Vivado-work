@@ -1,0 +1,12 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+O0 = x, O1 = x, O2 = x, O3 = x
+
+S0 = 0, S1= 0, O0 = 1, O1 = 0, O2 = 0, 03 = 0
+
+S0 = 1, S1= 0, O0 = 0, O1 = 0, O2 = 1, 03 = 0
+
+S0 = 0, S1= 1, O0 = 0, O1 = 1, O2 = 0, 03 = 0
+
+S0 = 1, S1= 1, O0 = 0, O1 = 0, O2 = 0, 03 = 1
+
